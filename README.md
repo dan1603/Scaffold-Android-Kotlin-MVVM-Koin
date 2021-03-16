@@ -1,7 +1,7 @@
 # Scaffold Android Kotlin MVVM
 - Koin DI Version
 
-This README is also available in <a href="#">Russian</a>.
+This README is also available in <a href="https://github.com/dan1603/Scaffold-Android-Kotlin-MVVM-Koin/blob/main/README_RU.md">Russian</a>.
 
 ### Clean Architecture
 
